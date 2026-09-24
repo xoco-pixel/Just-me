@@ -1,0 +1,10 @@
+node_modules/
+.env
+.env.*
+
+# Runtime data: the SQLite database and user uploads are real user data and
+# must never be committed.
+data/
+
+*.log
+.DS_Store
